@@ -7,8 +7,8 @@
 <title>Hello World web application</title>
 </head>
 <body>
-   Hello Everyone, Today is 1st October.
-	<h1>Thanks a lot for Coming Till here!</h1>
+   Hello Everyone, Today is 1st October 2022.
+	<h1>Welcome to k8s session's CICD class</h1>
     	<form action="helloServlet" method="post">
     	Enter your name: <input type="text" name="username" size="20">
     	<input type="submit" value="Call Servlet" />
